@@ -1,0 +1,10 @@
+{
+    "appearance": 235,
+    "chat": 216,
+    "command": 38,
+    "login": 0,
+    "logout": 102,
+    "ping": 67,
+    "session": "32",
+    "walk": 187
+}

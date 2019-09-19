@@ -1,0 +1,13 @@
+{
+    "alert": 89,
+    "appearance": 59,
+    "death": 83,
+    "logoutSuccess": 4,
+    "message": 131,
+    "npcMovement": 79,
+    "options": 245,
+    "playerAppearance": 234,
+    "playerMovement": 191,
+    "sound": 204,
+    "world": 25
+}

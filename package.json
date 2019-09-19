@@ -1,0 +1,33 @@
+{
+  "name": "rsc-server",
+  "version": "0.0.0",
+  "private": true,
+  "author": "Mister Hat <misterhat144@gmail.com>",
+  "description": "runescape classic server",
+  "scripts": {
+    "start": "node run.js"
+  },
+  "dependencies": {
+    "async": "0.7.x",
+    "long": "1.1.x",
+    "smart-buffer": "1.0.x"
+  },
+  "main": "run.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misterhat/rsc-server.git"
+  },
+  "keywords": [
+    "runescape",
+    "rsc",
+    "multiplayer",
+    "game",
+    "server"
+  ],
+  "license": "AGPL-3.0+",
+  "bugs": {
+    "url": "https://github.com/misterhat/rsc-server/issues"
+  },
+  "homepage": "https://github.com/misterhat/rsc-server#readme"
+}
