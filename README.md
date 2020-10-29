@@ -1,3 +1,6 @@
+# NOTE
+This project has been archived. See https://github.com/2003scape/rsc-server
+
 # rsc-server
 A dynamic, event-driven RuneScape Classic server written in JavaScript. Designed
 to work with the 204 client revision (although can be easily modified to work
